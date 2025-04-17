@@ -21,4 +21,4 @@ To explore how ride behavior varies between casual riders and annual members and
 - Highlight the **convenience and savings** of becoming a member, especially for commuters.
 
 ## View on Kaggle
-[ Click here to view the original notebook](https://www.kaggle.com/your-kaggle-username/your-notebook-name)
+[Click here to view the original notebook](https://www.kaggle.com/code/sepidehmoshfeghi/bike-share-cyclists)
