@@ -20,5 +20,8 @@ To explore how ride behavior varies between casual riders and annual members and
 - Offer **weekend promotions** or trial memberships to casual riders.
 - Highlight the **convenience and savings** of becoming a member, especially for commuters.
 
+## Dataset
+The data used in this analysis is from [Company Website](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
 ## View on Kaggle
 [Click here to view the original notebook](https://www.kaggle.com/code/sepidehmoshfeghi/bike-share-cyclists)
